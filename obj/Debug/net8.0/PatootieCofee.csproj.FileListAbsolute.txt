@@ -1,0 +1,14 @@
+C:\Users\cupca\source\repos\PatootieCofee\bin\Debug\net8.0\PatootieCofee.exe
+C:\Users\cupca\source\repos\PatootieCofee\bin\Debug\net8.0\PatootieCofee.deps.json
+C:\Users\cupca\source\repos\PatootieCofee\bin\Debug\net8.0\PatootieCofee.runtimeconfig.json
+C:\Users\cupca\source\repos\PatootieCofee\bin\Debug\net8.0\PatootieCofee.dll
+C:\Users\cupca\source\repos\PatootieCofee\bin\Debug\net8.0\PatootieCofee.pdb
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\PatootieCofee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\PatootieCofee.AssemblyInfoInputs.cache
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\PatootieCofee.AssemblyInfo.cs
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\PatootieCofee.csproj.CoreCompileInputs.cache
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\PatootieCofee.dll
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\refint\PatootieCofee.dll
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\PatootieCofee.pdb
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\PatootieCofee.genruntimeconfig.cache
+C:\Users\cupca\source\repos\PatootieCofee\obj\Debug\net8.0\ref\PatootieCofee.dll
